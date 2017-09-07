@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dedi/.android/build-cache/528c46b4823004616e7affdde92e8a7b40b88d25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f7fb377f07dddacd2a735816c6bced690add028">
+        <dex dex="/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/pre-dexed/debug/classes_ed5d605994a6d61cbdd1594dbb4349f12f39448f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/dedi/.android/build-cache/7e5de470cb5d814aa77383c2993d9a3c6f391280/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/dedi/.android/build-cache/7e5de470cb5d814aa77383c2993d9a3c6f391280/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/dedi/.android/build-cache/7e5de470cb5d814aa77383c2993d9a3c6f391280/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/dedi/.android/build-cache/7e5de470cb5d814aa77383c2993d9a3c6f391280/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

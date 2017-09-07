@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_cloud_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_attach_file_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_attach_file_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_camera_alt_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_camera_alt_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_attachment_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_attachment_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_person_pin_circle_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_person_pin_circle_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_near_me_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_near_me_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mic_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_whatsapp_chathead.9.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_whatsapp_chathead.9.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_headset_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_headset_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_switch_video_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_switch_video_white_24dp.png"
+    },
+    {
+        "merged": "/home/dedi/Documents/Design-WhatsApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_wallpaper_white_24dp.png",
+        "source": "/home/dedi/Documents/Design-WhatsApp/app/src/main/res/drawable-xxhdpi/ic_wallpaper_white_24dp.png"
+    }
+]

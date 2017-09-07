@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dedi/.android/build-cache/7a78f8a673abe54667cf9a0e1bc7ab1aed36295d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/dedi/.android/build-cache/0bca4ce511e48bfc4269c8126e65625e0fa87605/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/dedi/.android/build-cache/298c3b661cd24cc728b44f3b03a7228f3496d4eb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedi/.android/build-cache/7e5de470cb5d814aa77383c2993d9a3c6f391280/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/dedi/.android/build-cache/f2ff5b2f2a5cd39b27d57f64e8396a8c2d483875/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/dedi/.android/build-cache/be0a4ca1d86fd2dbffdf2dc76d060ca987175731/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/dedi/.android/build-cache/08e02fd8fc23c10326c0ed78e7adf0914b0c4f87/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/dedi/.android/build-cache/1e53d4f43ff945c1d5ed7144c65db0a881b6fa73/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/dedi/.android/build-cache/bc9c9f1b7cbd2d8a880db5bf742e32fd983498b7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/dedi/.android/build-cache/6e817af9d70a4e93fff9bfb7d868fb48f674c8e0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/dedi/.android/build-cache/3d9e66dd6088620b01051f6cec6ebf7ac39f1934/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/dedi/.android/build-cache/79bb1060170bd9143b5cae19d7b638c463fcfdbd/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:10:9-40
+activity#id.codetr.whatappedittext.MainActivity
+ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dedi/.android/build-cache/7a78f8a673abe54667cf9a0e1bc7ab1aed36295d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /home/dedi/.android/build-cache/0bca4ce511e48bfc4269c8126e65625e0fa87605/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/dedi/.android/build-cache/298c3b661cd24cc728b44f3b03a7228f3496d4eb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.github.hani-momanii:SuperNova-Emoji:1.1] /home/dedi/.android/build-cache/528c46b4823004616e7affdde92e8a7b40b88d25/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/dedi/.android/build-cache/23843e9b7193d551472067107922ac2d6dfa5be0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedi/.android/build-cache/7e5de470cb5d814aa77383c2993d9a3c6f391280/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/dedi/.android/build-cache/f2ff5b2f2a5cd39b27d57f64e8396a8c2d483875/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/dedi/.android/build-cache/be0a4ca1d86fd2dbffdf2dc76d060ca987175731/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/dedi/.android/build-cache/08e02fd8fc23c10326c0ed78e7adf0914b0c4f87/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/dedi/.android/build-cache/1e53d4f43ff945c1d5ed7144c65db0a881b6fa73/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/dedi/.android/build-cache/bc9c9f1b7cbd2d8a880db5bf742e32fd983498b7/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/dedi/.android/build-cache/6e817af9d70a4e93fff9bfb7d868fb48f674c8e0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/dedi/.android/build-cache/3d9e66dd6088620b01051f6cec6ebf7ac39f1934/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/dedi/.android/build-cache/79bb1060170bd9143b5cae19d7b638c463fcfdbd/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/dedi/.android/build-cache/0bca4ce511e48bfc4269c8126e65625e0fa87605/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dedi/Documents/Design-WhatsApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/dedi/.android/build-cache/0bca4ce511e48bfc4269c8126e65625e0fa87605/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /home/dedi/.android/build-cache/298c3b661cd24cc728b44f3b03a7228f3496d4eb/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/dedi/.android/build-cache/23843e9b7193d551472067107922ac2d6dfa5be0/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/dedi/.android/build-cache/7e5de470cb5d814aa77383c2993d9a3c6f391280/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/dedi/.android/build-cache/f2ff5b2f2a5cd39b27d57f64e8396a8c2d483875/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/dedi/.android/build-cache/be0a4ca1d86fd2dbffdf2dc76d060ca987175731/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/dedi/.android/build-cache/08e02fd8fc23c10326c0ed78e7adf0914b0c4f87/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/dedi/.android/build-cache/1e53d4f43ff945c1d5ed7144c65db0a881b6fa73/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/dedi/.android/build-cache/bc9c9f1b7cbd2d8a880db5bf742e32fd983498b7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/dedi/.android/build-cache/6e817af9d70a4e93fff9bfb7d868fb48f674c8e0/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/dedi/.android/build-cache/3d9e66dd6088620b01051f6cec6ebf7ac39f1934/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/dedi/.android/build-cache/79bb1060170bd9143b5cae19d7b638c463fcfdbd/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/dedi/.android/build-cache/0bca4ce511e48bfc4269c8126e65625e0fa87605/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/dedi/.android/build-cache/0bca4ce511e48bfc4269c8126e65625e0fa87605/output/AndroidManifest.xml:26:9-47
